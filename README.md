@@ -3,4 +3,4 @@
 ## Salvando alterações no Git
 
 * Uso do comando restore
-* \n
+* \n\n\n
