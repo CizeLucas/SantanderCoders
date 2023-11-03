@@ -1,1 +1,1 @@
-git fetch & git diff
+teste dos comandos git fetch & git diff
