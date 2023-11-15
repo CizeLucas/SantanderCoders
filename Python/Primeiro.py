@@ -1,7 +1,12 @@
+##  Variaveis, Input, Conversão de Tipos, Operadores Aritimeticos e Booleanos
+
 print("Ola, Mundo!")
 """
 str = input("Insira uma entrada: ")
 print(f"{type(str)} {str}")
+
+input_inteiro = int(input("Insira um numero: "))
+print(f"Tipo: {type(input_inteiro)} // Conteudo: {input_inteiro}")
 """
 
 """
